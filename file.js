@@ -11,3 +11,4 @@ const currentMemoryUsage = process.memoryUsage().heapUsed
 console.log(`Hai, ${yourName}`);
 console.log(`Mode environment: ${environment}`)
 console.log(`Penggunaan memori dari ${initialMemoryUsage} naik ke ${currentMemoryUsage}`);
+console.log('menambah kode baru sebagai kolaborator')
